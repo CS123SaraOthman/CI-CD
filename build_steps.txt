@@ -1,0 +1,3 @@
+docker compose -p lavender down
+docker compose -p lavender build
+docker compose -p lavender up -d
